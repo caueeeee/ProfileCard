@@ -12,6 +12,22 @@ video {
   body{
     background-position: 0 !important;
   }
+
+  .card{
+    width: 350px !important;
+    height: 650px !important;
+  }
+
+  .bio{
+    top: 60% !important;
+    width: 300px !important;
+    font-size: 15px;
+  }
+
+  .profile{
+    width: 110px !important;
+    height: 110px !important;
+  }
 }
 
 body {
