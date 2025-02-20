@@ -117,24 +117,32 @@ body {
 .containerOne:hover {
   background-color: #d62976;
   transition-duration: .5s;
+  border-radius: 5px;
+  transform: translateY(-5px);
 }
 
 /* twitter*/
 .containerTwo:hover {
   background-color: #00acee;
   transition-duration: .5s;
+  border-radius: 5px;
+  transform: translateY(-5px);
 }
 
 /* linkdin*/
 .containerThree:hover {
   background-color: #0072b1;
   transition-duration: .5s;
+  border-radius: 5px;
+  transform: translateY(-5px);
 }
 
 /* Whatsapp*/
 .containerFour:hover {
   background-color: #128C7E;
   transition-duration: .5s;
+  border-radius: 5px;
+  transform: translateY(-5px);
 }
 
 .socialContainer:active {
